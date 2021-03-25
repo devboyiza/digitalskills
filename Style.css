@@ -1,0 +1,21 @@
+/*selector { Property: value;}*/
+* {
+	text-align: right;
+}
+body {background-image: url(www.unsplash.com/image2)
+}
+h2,p {color: green;
+text-align: center;
+border: 5px solid black;
+cursor: pointer;
+}
+p {color: blue;}
+li	{list-style: none;
+display: inline-block;
+}
+.webtext {
+border:5px dashed yellow}
+#div1 {background: rgb( 0, 255, 0, 0.5);
+}
+#div2 {background: rgb( 255, 0, 0, 0.5);
+}
